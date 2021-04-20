@@ -27,7 +27,7 @@ public class ChooseAndSwap {
             if (counterMap.containsKey(c)) {
                 int freq = counterMap.get(c);
                 counterMap.replace(String.valueOf(c), freq);
-            }else {
+            } else {
                 counterMap.put(String.valueOf(c),getFrequency(arr, c));
             }
         }
