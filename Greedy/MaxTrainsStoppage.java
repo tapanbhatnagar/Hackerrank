@@ -8,7 +8,7 @@ public class MaxTrainsStoppage {
     static int getMaxTrains(int[][] arr) {
 //        List<List<int>> list = new ArrayList<>();
 //        for (int i = 0; i < arr.length; i++) {
-//            list.add(Arrays.asList(arr[i]));
+//            list.add(GeeksForGeeks.Arrays.asList(arr[i]));
 //
 //        }
         return 0;
